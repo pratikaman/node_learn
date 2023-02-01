@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.21"
+    "@types/node": "^18.11.18",
+    "lodash": "^4.17.21",
+    "node": "^16.13.2"
   }
 }
